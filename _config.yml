@@ -1,0 +1,14 @@
+layout_spectrum: 0.4924812
+color:
+  saturation: 0.8984962
+  lightness: 0.7404948
+  brandStrength: 0.4914071
+  brandColors:
+    - '#FFFFFF'
+    - '#85A1EA'
+    - '#493734'
+    - '#867973'
+    - '#E2BDAC'
+  rhythmicContrast: 0.7631579
+typography_spectrum: 0.6858217
+name: aaronworks
